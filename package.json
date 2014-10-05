@@ -17,6 +17,8 @@
     "optimist": "~0.3.5",
     "async": "~0.1.22",
     "openport": "0.0.3",
-    "mkdirps": "0.0.0"
+    "mkdirps": "0.0.0",
+    "shelljs":"0.3.0",
+    "node-cache":"1.0.2"
   }
 }
